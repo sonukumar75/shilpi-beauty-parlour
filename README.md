@@ -1,4 +1,4 @@
-# Veloura Beauty Studio
+# Shilpi Beauty Parlour
 
 Responsive Next.js App Router website for a beauty salon. Built with TypeScript, React and Tailwind CSS v4 (with a custom responsive design system).
 
